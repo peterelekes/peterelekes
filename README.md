@@ -4,7 +4,7 @@
 - 📈 I'm always looking for new challenges and ways to improve myself.
 
 ## About Me
-When I'm not coding, I enjoy playing the piano and consider myself a bit of a jazz musician 🎹🎶. I'm also an avid video game player 🎮 and love exploring new games and genres.
+When I'm not coding, I enjoy playing the piano and consider myself a bit of a jazz musician 🎹🎶. I'm also a self-proclaimed competitive video game player 🎮.
 
 ## 💻 
 - C/C++, Java, Python
