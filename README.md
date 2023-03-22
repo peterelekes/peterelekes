@@ -1,6 +1,6 @@
 # Hello, I'm Elekes Péter! 👋
 - 👨‍🎓 Currently I'm a 3rd year Computer Science student at the Technical University of Cluj-Napoca.
-- 👨‍💻 During these years I have taken on multiple projects, with some success.
+- 👨‍💻 During these years I have taken on multiple projects
 - 📈 I'm always looking for new challenges and ways to improve myself.
 
 ## About Me
