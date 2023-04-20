@@ -13,6 +13,4 @@ When I'm not coding, I enjoy playing the piano and consider myself a bit of a ja
 - Haskell, Elm, Prolog
 - SQL
 
-🔗 Here is a link to my GitHub repositories: [click](https://github.com/peterelekes?tab=repositories)
-
-🔗 Connect with me on LinkedIn: [click](https://www.linkedin.com/in/peterelekes/)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/peterelekes/)
