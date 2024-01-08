@@ -8,7 +8,7 @@ When I'm not coding, I enjoy playing the piano 🎹🎶, and playing video games
 
 ## 💻
 - JavaScript
-- Vue.js (HTML/CSS
+- Vue.js (HTML/CSS)
 - SQL
 - C/C++, Java, Python
 - VHDL
